@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🔭 I'm currently working on a Fully functional Web app for Anime image collection.
+- 🌱 I’m currently learning AI tools and exploring cloud storage alternatives for better optimization in my projects.
+- 👯 I’m looking to collaborate on MERN stack projects and AI-based solutions that can help enhance user experience.
+- 🤔 I’m looking for help with improving performance in real-time applications and better integration of cloud services.
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/ketan-chauhan-82056021a/)
+
+Link- [Portfolio](https://portfolio-1-mf6l.onrender.com)
 
 <!--
 **Ketan9548/Ketan9548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
