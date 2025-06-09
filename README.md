@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Doctor Appointment**
 
-- 🌱 I’m currently learning **React , Nodejs , Express , Django**
+- 🌱 I’m Good in **React , Nodejs , Express , Django**
 
 - 👯 I’m looking to collaborate on **Full stack project with MERN & Django**
 
